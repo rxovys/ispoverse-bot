@@ -1,0 +1,10 @@
+{
+    "userid": "punya lo",
+    "apikey": "punya lo",
+    "walletaddress": "isi punya lo",
+    "taskIds": ["3", "4", "5", "7", "8", "9", "10"],
+    "cookies": "isi punya lo",
+    "xsrfToken": "isi punya lo",
+    "delayBetweenTasks": 2000,  
+    "intervalHours": 24
+}
